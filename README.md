@@ -18,7 +18,7 @@ This repository contains resources that will be helpful for developers to make u
     |- python
 |-Product2/
     |......
-|- LICENSE     [ MIT License ]
+|- LICENSE     [ Apache-2.0 License ]
 |- README      [ README.md ]
 
 ````
